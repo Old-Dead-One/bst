@@ -34,4 +34,4 @@ class TestBinarySearchTree(unittest.TestCase):
         print("Serialize and Deserialize Test Passed")
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() 
